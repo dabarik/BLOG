@@ -1,0 +1,49 @@
+
+.black-textarea textarea.md-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid black;
+    box-shadow: 0 1px 0 0 black;
+}
+.black-textarea.md-form .prefix.active {
+    color: black;
+}
+
+
+.active-black-textarea-2 textarea.md-textarea {
+    border-bottom: 1px solid black;
+    box-shadow: 0 1px 0 0 black;
+}
+.active-black-textarea-2.md-form label.active {
+    color: black;
+}
+.active-black-textarea-2.md-form label {
+    color: black;
+}
+.active-black-textarea-2.md-form .prefix {
+    color: black;
+}
+
+.container{
+    margin-left : 370px;
+    margin-top: 50px;
+}
+
+.container1{
+    margin-left : 400px;
+    margin-top: 30px;
+}
+
+.container2{
+    margin-left : 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+}
+
+.list-unstyledchat{
+    margin-top:40px;
+    margin-left: 250px;
+    padding-right: 300px;
+}
+
+li{
+    list-style-type: none;
+}
