@@ -36,7 +36,7 @@ if(!empty(($_GET['id']))){
 </head>
 <body>
 
-<a href='deconnexion.php'><button type="button" class="btn btn-danger">Se déconnecter</button></a>
+<a href="deconnexion.php" class="btn btn-danger">Se déconnecter</a>
 
 <h1 class="text-center">BLOG</h1>
 
